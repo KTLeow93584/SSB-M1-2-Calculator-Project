@@ -11,10 +11,14 @@
 - Open up the "index.html" file on your browser.
 
 ## Preview
-<a href="./assets/preview-1.png">
-  <img src="./assets/preview-1.png" width="40%" height="auto">
-  <img src="./assets/preview-2.png" width="40%" height="auto">
-</a>
+<div>
+  <a href="./assets/preview-1.png">
+    <img align=top src="./assets/preview-1.png" width="40%" height="auto">
+  </a>
+  <a href="./assets/preview-1.png">
+    <img align=top src="./assets/preview-2.png" width="40%" height="auto">
+  </a>
+</div>
 <!--- target = "_blank" not supported in GIT HTML Markdowns --->
 <!--- Discussion: https://stackoverflow.com/questions/41915571/open-link-in-new-tab-with-github-markdown-using-target-blank --->
 
