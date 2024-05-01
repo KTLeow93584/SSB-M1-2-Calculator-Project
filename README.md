@@ -3,8 +3,8 @@
 ## Languages
 
 [![HTML5](https://img.shields.io/badge/Language-HTML5-brightgreen.svg?style=flat)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Native Javascript](https://img.shields.io/badge/Language-Native%20JavaScript-brightgreen.svg?style=flat)]([https://github.com/standard/standard](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
-[![Native CSS](https://img.shields.io/badge/Language-Native%20CSS-brightgreen.svg?style=flat)]([https://github.com/standard/standard](https://developer.mozilla.org/en-US/docs/Web/CSS))
+[![Native Javascript](https://img.shields.io/badge/Language-Native%20JavaScript-brightgreen.svg?style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Native CSS](https://img.shields.io/badge/Language-Native%20CSS-brightgreen.svg?style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Installation/Setup
 - Clone, fork or download the project as zip.
